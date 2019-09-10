@@ -7,7 +7,9 @@
 }
 
 .logo {
-margin-top:196px;
+margin-top:auto;
+margin-left: auto;
+margin-right: auto }
 border:1px solid red; background:url(/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png);
 }
 input {
