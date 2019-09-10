@@ -1,3 +1,4 @@
+
 .container {
   text-align:center;
   width:100%;
@@ -7,6 +8,7 @@
 }
 
 .logo {
+justify-content:center;
 margin-top:auto;
 margin-left: auto;
 margin-right: auto }
